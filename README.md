@@ -6,6 +6,7 @@ Takes a video as input, then creates a file that allows you to play that video i
 Python:
 
   pillow
+  
   tqdm
 
 System:
