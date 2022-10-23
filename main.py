@@ -49,7 +49,7 @@ def play_video():
         print(elt+"\r",end="")
         time.sleep(1/fps)
 
-# make_dataset()
+make_dataset()
 input()
 play_video()
     
